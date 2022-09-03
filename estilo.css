@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Permanent+Marker&display=swap');
+
+body{
+ background-color: #F8F8FF;
+}
+
+#intro-pag{
+ text-align: center;
+ font-family: 'Press Start 2P', cursive;
+ font-size: 28px;
+ line-height: 36px;
+ background-image: url(../Fotos_adicionadas/WhatsApp\ Image\ 2022-07-03\ at\ 15.29.20_auto_x2_colored_toned_light_ai.jpg);
+ background-attachment: fixed;
+ padding:100px;
+ background-size:1118px;
+ background-position: bottom;
+ color:#F8F8FF;
+
+}
+
+.introduçao{
+ text-align: center;
+ font-family: 'Orbitron', sans-serif;
+ line-height: 30px;
+
+}
+
+.titulo2{
+ text-align: center;
+ font-family: 'Press Start 2P', cursive;
+ font-size: 14px;
+ line-height: 36px;
+ 
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+ list-style: none;
+ margin: 45px;
+ display: inline;
+ font-family: 'Orbitron', sans-serif;
+}
+
+.titulo3{
+ margin: 24px;
+ font-family: 'Press Start 2P', cursive;
+ font-size: 14px;
+}
+
+.paragrafo2{
+ font-family: 'Orbitron', sans-serif;
+ text-align: center;
+ line-height: 20px;
+}
+
+.titulo4{
+ margin: 24px;
+ font-family: 'Press Start 2P', cursive;
+ font-size: 14px;
+}
+
+.paragrafo3{
+ font-family: 'Orbitron', sans-serif;
+ text-align: center;
+ line-height: 20px;
+}
+
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+
+}
+.paragrafo4{
+ font-family: 'Orbitron', sans-serif;
+ text-align: center;
+ line-height: 20px;
+}
+
+.titulo5{
+ margin: 24px;
+ font-family: 'Press Start 2P', cursive;
+ font-size: 14px;
+}
+
+.paragrafo5{
+ font-family: 'Orbitron', sans-serif;
+ text-align: center;
+ line-height: 20px;
+}
+
+.img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+
+}
+
+.titulo6{
+ margin: 24px;
+ font-family: 'Press Start 2P', cursive;
+ font-size: 14px;  
+
+}
+
+.img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    max-height: 450px;
+    width: auto;
+    height: auto;  
+}
+
+.paragrafo6{
+ font-family: 'Orbitron', sans-serif;
+ text-align: center;
+ line-height: 20px;
+}
+
+footer{
+ background-color: black ;
+ height: 44px;
+ color: #F8F8FF;
+ text-align: center;
+ padding-top: 21px;
+ font-family: 'Orbitron', sans-serif;
+ font-family: 'Permanent Marker', cursive;
+}
